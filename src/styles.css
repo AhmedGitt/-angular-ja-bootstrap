@@ -14,3 +14,11 @@ button {
   width: 5%;
   border: black solid 1px;
 }
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
